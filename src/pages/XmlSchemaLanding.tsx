@@ -4,9 +4,9 @@ import { FileCode2, ArrowRight } from 'lucide-react';
 
 
 const SCHEMA_FILES = [
-  { file: 'XML_Tags_Schema.xlsx', label: 'XML_Tags_Schema' },
-  { file: 'Schema_1.xlsx', label: 'Schema_1' },
-  { file: 'Schema_2.xlsx', label: 'Schema_2' },
+  { file: 'FATCA_Schema 2.0.xlsx', label: 'FATCA Schema 2.0' },
+  { file: 'TestSchema_1.xlsx', label: 'Demo file 1' },
+  { file: 'TestSchema_2.xlsx', label: 'Demo file 2' },
 ];
 
 const XmlSchemaLanding: React.FC = () => {
