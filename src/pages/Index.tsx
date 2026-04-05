@@ -1,12 +1,12 @@
 
 import React from 'react';
 import Layout from '@/components/layout/Layout';
-import Home from './Home';
+import XmlSchemaLanding from './XmlSchemaLanding';
 
 const Index: React.FC = () => {
   return (
     <Layout>
-      <Home />
+      <XmlSchemaLanding />
     </Layout>
   );
 };
